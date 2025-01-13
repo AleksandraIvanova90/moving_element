@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/l5oqhpd2afwaxo52?svg=true)](https://ci.appveyor.com/project/AleksandraIvanova90/moving-element)
 
 ### Перемещение элемента
 
